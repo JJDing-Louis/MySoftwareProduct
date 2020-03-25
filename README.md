@@ -1,3 +1,3 @@
 # MySoftwareProduct
-Python作品:
-1.隨機亂數App
+## Python作品:
+ * 1.隨機亂數App
