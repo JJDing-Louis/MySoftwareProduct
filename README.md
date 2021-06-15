@@ -17,7 +17,8 @@
 ## C# 實作軟體
 1. [股票查詢](https://github.com/JJDing-Louis/Stock_Analysis-)
 2. 爬樓梯(字元查詢解碼)
-2.1 [陣列版](https://github.com/JJDing-Louis/stair_char_practice)
-2.2 [搜尋版](https://github.com/JJDing-Louis/stair_char_practice_searching_Mode)
+- [陣列版](https://github.com/JJDing-Louis/stair_char_practice)
+- [搜尋版](https://github.com/JJDing-Louis/stair_char_practice_searching_Mode)
+
 3. [發牌](https://github.com/JJDing-Louis/RandomCard)
 4. [費氏數列](https://github.com/JJDing-Louis/Fibonacci_series_practice)
