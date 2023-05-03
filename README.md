@@ -12,6 +12,7 @@
 ## Python App試做
 * 1.[Youtube音樂下載器(待修正)](https://github.com/JJDing-Louis/Youtube-Download-Project)   
 (下載後，檔案會在同一個目錄的"Youtube影片"資料夾內)
+* 2.[股票爬蟲(偶次面試題目實作)](https://github.com/JJDing-Louis/Stock_Scrapy)
 
 ## Rasberry 
 1. [樹梅派Sensor使用整理](https://github.com/JJDing-Louis/raseberry-sensor-package)
