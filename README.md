@@ -2,6 +2,7 @@
 ## Python作品:
  * 1.[隨機亂數App](https://github.com/JJDing-Louis/MySoftwareProduct/tree/master/Python)
  * 2.[Youtube音樂下載器.exe](https://github.com/JJDing-Louis/MySoftwareProduct/tree/master/Python)
+ * 3.[Yahoo股票爬蟲](https://github.com/JJDing-Louis/Stock_Scrapy)
 ## WEB作品:
  * 1.[個人學習筆記](https://jjding-louis.github.io/)
  * 2.[速食訂餐的Firebase試做](https://jjnetnewapp.web.app/)
